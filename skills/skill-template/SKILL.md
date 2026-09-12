@@ -1,9 +1,9 @@
-----
+---
 id: "skill-template"
 name: "Skill Template"
 category: "template"
 summary: "A reusable template for new AI skills."
-----
+---
 
 # Skill Template
 
