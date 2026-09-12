@@ -1,8 +1,13 @@
 ---
-id: "skill-template"
-name: "Skill Template"
-category: "template"
-summary: "A reusable template for new AI skills."
+name: "skill-template"
+description: "A reusable template for new AI skills."
+argument-hint: "Provide the necessary arguments for the skill."
+compatibility: "All AI skill platforms"
+disable-model-invocation: true
+license: "MIT"
+metadata: {
+  
+}
 ---
 
 # Skill Template
